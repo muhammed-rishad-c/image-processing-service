@@ -6,3 +6,5 @@ passlib[bcrypt]
 python-multipart
 python-dotenv
 pydantic
+sqlmodel 
+psycopg2-binary
